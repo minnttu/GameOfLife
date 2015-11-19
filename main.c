@@ -123,7 +123,7 @@ curs_set(FALSE); // Don't display a cursor
 	}
 
 //}
-	endwin ();
+	//endwin ();
 } /* end of main */
 /*
 -------------------------------------
